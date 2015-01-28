@@ -1,10 +1,10 @@
 # html-css-js-huapiaoxiang
- Huapaioxiang is constructed using html + css +javascript.Use html build content, css add style, javascript achieve interactivity.
+ Huapaioxiang is constructed using html + css +javascript.Use html build content, css add style, javascript achieve interactivity.<br>
  ![](https://github.com/jingwhale/html-css-js-huapiaoxiang/raw/master/images/README1.jpg)
 ## Images Carousel：
  ![](https://github.com/jingwhale/html-css-js-huapiaoxiang/raw/master/images/README2.jpg)
  ```js
-    var bannerAD=new Array();
+   var bannerAD=new Array();
    var bannerADlink=new Array();
    var adNum=0;
 
